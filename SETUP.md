@@ -141,8 +141,9 @@ ruff check src/ examples/
 
 1. Try the examples in `examples/basic_usage.py`
 2. Read the full documentation in `README.md`
-3. Check out the TimeSense paper in `docs/2511.06344v1.pdf`
-4. Experiment with your own time series data!
+3. Check the TimeSense paper in `docs/2511.06344v1.pdf` for research background
+4. Review `CLAUDE.md` if working with future Claude Code instances
+5. Experiment with your own time series data!
 
 ## Architecture Overview
 
